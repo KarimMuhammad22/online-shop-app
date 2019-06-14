@@ -13,7 +13,7 @@
 ## Install
 
 ```sh
-nmp install
+npm install
 ```
 
 ## Usage
